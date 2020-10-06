@@ -112,6 +112,7 @@ background-size: contain;
 
 .work-content {
   padding: 2rem 3% 1rem 4%;
+  height: 75px;
 }
 
 .text-info-portfolio
@@ -563,6 +564,7 @@ text-transform: uppercase;
 /* Services Section
 --------------------------------*/
 .section-header .section-title {
+  padding-top: 10%;
   font-size: 32px;
   color: #111;
   text-transform: uppercase;
@@ -574,7 +576,8 @@ text-transform: uppercase;
 .section-header .section-description {
   text-align: center;
   padding-bottom: 40px;
-  color: #999;
+  color: #333;
+  font-size: 25px;
 }
 
 /********************************** */
